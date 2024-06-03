@@ -4,9 +4,8 @@ I'm passionate about exploring the intersections of technology and creativity. W
 
 ### Skills
 
-- **Programming Languages:** Python, JavaScript, Node
-- **Tools & Technologies:** Docker, Git, Scapy
-- **Web Development:** HTML, CSS, Express.js
+- **Programming Languages:** Python, Bash, JavaScript, Node
+- **Web Development:** HTML, CSS, Express.js, MongoDB, Redis, Prisma
 
 ---
 
