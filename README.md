@@ -4,7 +4,7 @@ I'm passionate about exploring the intersections of technology and creativity. W
 
 ### Skills
 
-- **Programming Languages:** Python, JavaScript
+- **Programming Languages:** Python, JavaScript, Node
 - **Tools & Technologies:** Docker, Git, Scapy
 - **Web Development:** HTML, CSS, Express.js
 
@@ -15,10 +15,3 @@ I'm passionate about exploring the intersections of technology and creativity. W
 - **Music:** I enjoy playing guitar and experimenting with sound.
 - **Ethical Hacking:** Continuously learning and exploring cybersecurity.
 - **Blockchain:** Exploring the potential of decentralized technologies.
-
----
-
-## Get in Touch
-
-📧 Email: [thejordanprice@gmx.com](mailto:thejordanprice@gmx.com)
-👨‍💼 LinkedIn: [Jordan Price](https://www.linkedin.com/in/thejordanprice)
